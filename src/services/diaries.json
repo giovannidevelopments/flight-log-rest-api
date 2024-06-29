@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "visibility": "poor",
+        "weather": "sunny",
+        "comment": "Pretty scry flight, I'm glad I'm alive"
+    },
+    {
+        "id": 2,
+        "date": "2018-05-15",
+        "weather": "rainy",
+        "visibility": "good",
+        "comment": "Enjoyed a cozy day indoors with a book."
+    },
+    {
+        "id": 3,
+        "date": "2019-09-30",
+        "weather": "cloudy",
+        "visibility": "ok",
+        "comment": "Had a peaceful walk in the park despite the overcast skies."
+    },
+    {
+        "id": 4,
+        "date": "2020-03-20",
+        "weather": "windy",
+        "visibility": "poor",
+        "comment": "Battled strong winds while cycling."
+    },
+    {
+        "id": 5,
+        "date": "2021-07-10",
+        "weather": "stormy",
+        "visibility": "poor",
+        "comment": "Witnessed a powerful thunderstorm from the safety of home."
+    }
+]
